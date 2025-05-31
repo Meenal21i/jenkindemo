@@ -1,1 +1,5 @@
 pytest
+pytest-html
+pytest-rerunfailures
+playwright
+python-dotenv
