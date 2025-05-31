@@ -6,7 +6,7 @@ pipeline {
     }
 
     tools {
-        python 'Python 3.10' // Set up Python tool from Jenkins Global Config
+        python 'Python 3.10'
     }
 
     stages {
